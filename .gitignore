@@ -1,0 +1,9 @@
+.pio/
+.vscode/
+*.bin
+*.elf
+*.hex
+*.map
+*.lst
+*.o
+*.d
